@@ -1,6 +1,5 @@
 # ReactCrud
 react crud with login
-<<<<<<< HEAD
 ## Available Scripts
 
 In the project directory, you can run:
@@ -43,5 +42,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-=======
->>>>>>> c3c97c307ebfc1205794fa1b1d023b3b59f5fc21
